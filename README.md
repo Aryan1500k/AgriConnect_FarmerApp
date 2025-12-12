@@ -27,7 +27,7 @@ This project relies on the following Flutter packages:
 * **`geolocator`**: For accessing GPS and calculating distance.
 * **`intl`**: For formatting the harvesting date.
 
-## 🚀 How to Run the App
+##  How to Run the App
 
 1.  **Clone the Repository:**
     ```bash
